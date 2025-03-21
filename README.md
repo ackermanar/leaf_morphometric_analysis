@@ -1,5 +1,5 @@
 # Automated Analysis of Leaf Morphometrics
-*Version 7, 10-31-23*
+*Version 9, 03-20-25*
 
 ## Summary
 Develop a model to measure leaf morphometrics from photos taken outside in field books and test if accuracy is comparable to images taken in a photo booth.
