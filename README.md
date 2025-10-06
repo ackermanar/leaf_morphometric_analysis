@@ -1,8 +1,8 @@
 # Automated Analysis of Leaf Morphometrics
 *Version 9, 03-20-25*
 
-[Show Image](https://opensource.org/licenses/MIT)
-[Show Image](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/DOI-pending-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Summary
 Develop a model to measure leaf morphometrics from photos taken outside in field books and test if accuracy is comparable to images taken in a photo booth.
